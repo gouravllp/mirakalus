@@ -82,7 +82,8 @@
   background-color: #eeeeee;
 }
 
-#homepage-5 .ps-home-banner ul, #homepage-5 .ps-home-banner ol {
+#homepage-5 .ps-home-banner ul,
+#homepage-5 .ps-home-banner ol {
   margin: 0;
   padding: 0;
   list-style: none;
@@ -98,7 +99,7 @@
   justify-content: space-between;
 }
 
-#homepage-5 .ps-home-banner .container > * {
+#homepage-5 .ps-home-banner .container>* {
   width: 100%;
 }
 
@@ -114,7 +115,7 @@
   list-style: none;
 }
 
-#homepage-5 .ps-home-banner .ps-section__left .menu--dropdown > li > a {
+#homepage-5 .ps-home-banner .ps-section__left .menu--dropdown>li>a {
   line-height: 16px;
 }
 
@@ -143,17 +144,17 @@
   justify-content: flex-start;
 }
 
-#homepage-5 .ps-home-banner .ps-section__right > a {
+#homepage-5 .ps-home-banner .ps-section__right>a {
   display: block;
   max-width: 50%;
   width: 100%;
 }
 
-#homepage-5 .ps-home-banner .ps-section__right > a img {
+#homepage-5 .ps-home-banner .ps-section__right>a img {
   width: 100%;
 }
 
-#homepage-5 .ps-home-banner .ps-section__right > a.wide {
+#homepage-5 .ps-home-banner .ps-section__right>a.wide {
   max-width: 100%;
 }
 
@@ -167,9 +168,11 @@
   #homepage-5 .ps-home-banner .container {
     flex-flow: column wrap;
   }
+
   #homepage-5 .ps-home-banner .container .ps-section__center {
     max-width: 100%;
   }
+
   #homepage-5 .ps-home-banner .container .ps-section__right {
     max-width: 100%;
   }
@@ -194,7 +197,8 @@
   color: red;
 }
 
-#homepage-5 .ps-deal-of-day .ps-section__header, #homepage-5 .ps-deal-of-day .ps-section__content {
+#homepage-5 .ps-deal-of-day .ps-section__header,
+#homepage-5 .ps-deal-of-day .ps-section__content {
   background-color: #fff;
 }
 
